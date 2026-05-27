@@ -1,4 +1,4 @@
-# 🚀 Data Structures and Algorithms in C++  
+# 🚀 Data Structures and Algorithms in C++   
 ### From Beginner to Advanced (Strike DSA Course)
 
 > A **complete, structured, and interview-oriented** Data Structures & Algorithms repository in **C++**, designed to take you from **absolute beginner** to **advanced problem solver**.
