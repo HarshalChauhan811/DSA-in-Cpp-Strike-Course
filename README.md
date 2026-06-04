@@ -16,7 +16,7 @@ This repository is created by following the **Strike DSA Course** curriculum tau
 - Interview preparation
 - Real-world problem solving
 
----
+---  
 
 ## 👨‍💻 Maintained By
 
