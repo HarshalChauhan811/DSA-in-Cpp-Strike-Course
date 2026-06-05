@@ -14,7 +14,7 @@ This repository is created by following the **Strike DSA Course** curriculum tau
 - Conceptual clarity
 - Clean C++ implementations
 - Interview preparation
-- Real-world problem solving
+- Real-world problem solving. 
 
 ---  
 
