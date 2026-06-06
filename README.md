@@ -27,7 +27,7 @@ This repository is created by following the **Strike DSA Course** curriculum tau
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/harshal8411  
 
-📧 **Email:**  
+📧 **Email:**   
 chauhanharshal8411@gmail.com  
 
 ---
