@@ -45,7 +45,7 @@ Binary Search ka idea:
 int search(vector<int>& arr, int key) {
 
     int n = arr.size() - 1;
-
+   
     int left = 0;
     int right = n;
 
@@ -60,7 +60,7 @@ int search(vector<int>& arr, int key) {
         // -------------------------------
         if(arr[mid] == key) {
             return mid;
-        }
+        }   
 
         /*
         =================================================
@@ -85,7 +85,7 @@ int search(vector<int>& arr, int key) {
             else {
                 left = mid + 1;
             }
-        }
+        }  
 
         /*
         =================================================
